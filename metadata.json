@@ -1,0 +1,5 @@
+{
+  "name": "99 Nights Diamonds Generator",
+  "description": "A web application that simulates a diamond generator for the fictional game '99 Nights'. Users can enter a username, select a platform and diamond amount, and watch a fake generation process, leading to a final verification step. This is for entertainment purposes only.",
+  "requestFramePermissions": []
+}
